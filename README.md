@@ -1,8 +1,7 @@
- ATM
+ ## ATM
 模拟现实ATM功能，实现存、取款、修改密码、转账等基本功能  JAVA GUI Application
 <br />
 Simulate real-world ATM functions, implement basic functions such as deposit, withdrawal, password change, and transfer
-<br />
 <br />
 **初始开户 需用管理员登录 帐号密码均为：admin <br />
 管理员可开户、销户、查询账户信息**
